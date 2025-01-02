@@ -1,4 +1,4 @@
-mod ch2-a_tour_of_rust;
+mod ch2_a_tour_of_rust;
 
 fn main() {
     ch2_a_tour_of_rust::greet();
