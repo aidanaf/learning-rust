@@ -1,3 +1,5 @@
+mod ch2-a_tour_of_rust;
+
 fn main() {
-    println!("Hello, world!");
+    ch2_a_tour_of_rust::greet();
 }
