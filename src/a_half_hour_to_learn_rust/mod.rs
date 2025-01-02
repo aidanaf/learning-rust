@@ -1,4 +1,5 @@
 // let introduces a variable binding
+
 let x;
 x = 42;
 
