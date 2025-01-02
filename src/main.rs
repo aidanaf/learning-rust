@@ -1,5 +1,6 @@
-mod ch2_a_tour_of_rust;
+mod a_half_hour_to_learn_rust;
+use a_half_hour_to_learn_rust::in_out();
 
 fn main() {
-    ch2_a_tour_of_rust::greet();
+    a_half_hour_to_learn_rust::in_out();
 }
