@@ -8,3 +8,4 @@ I am now learning Rust!
   - this is how you link modules in rust
 - also note that one cannot have a - or ; when naming a subdir
 - to run a chapter's mod.rs file, do: cargo run
+- using evcxr_jupyter, when making a new .ipynb file make sure to select the rust kernel
