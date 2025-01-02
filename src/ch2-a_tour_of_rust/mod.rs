@@ -1,3 +1,3 @@
 pub fn greet() {
-    printlin!("Hello from chapter 2!")
+    printlin!("Hello from chapter 2!");
 }
